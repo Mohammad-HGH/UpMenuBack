@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\bin\Release\net5.0\UpMenu.Core.deps.json
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\bin\Release\net5.0\UpMenu.Core.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\bin\Release\net5.0\ref\UpMenu.Core.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\bin\Release\net5.0\UpMenu.Core.pdb
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\bin\Release\net5.0\UpMenu.DataLayer.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\bin\Release\net5.0\UpMenu.DataLayer.pdb
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\UpMenu.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\UpMenu.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\UpMenu.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\UpMenu.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\UpMenu.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\UpMenu.Core.csproj.CopyComplete
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\UpMenu.Core.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\ref\UpMenu.Core.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.Core\obj\Release\net5.0\UpMenu.Core.pdb

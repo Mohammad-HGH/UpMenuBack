@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\bin\Debug\net5.0\UpMenu.DataLayer.deps.json
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\bin\Debug\net5.0\UpMenu.DataLayer.runtimeconfig.json
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\bin\Debug\net5.0\UpMenu.DataLayer.runtimeconfig.dev.json
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\bin\Debug\net5.0\UpMenu.DataLayer.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\bin\Debug\net5.0\ref\UpMenu.DataLayer.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\bin\Debug\net5.0\UpMenu.DataLayer.pdb
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\UpMenu.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\UpMenu.DataLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\UpMenu.DataLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\UpMenu.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\UpMenu.DataLayer.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\ref\UpMenu.DataLayer.dll
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\UpMenu.DataLayer.pdb
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\UpMenu.DataLayer.genruntimeconfig.cache
+C:\Users\HP\Desktop\UpMenu\UpMenu\UpMenu.DataLayer\obj\Debug\net5.0\UpMenu.DataLayer.csproj.AssemblyReference.cache

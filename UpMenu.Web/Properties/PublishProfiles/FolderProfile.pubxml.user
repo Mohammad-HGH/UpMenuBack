@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\publish</_PublishTargetUrl>
+    <History>True|2022-05-17T09:54:48.3888321Z;True|2022-05-17T13:49:26.1499550+04:30;True|2022-05-17T13:48:57.0573436+04:30;True|2022-05-17T13:48:35.9133421+04:30;True|2022-05-17T13:40:41.8095065+04:30;True|2022-05-13T08:23:37.8533173+04:30;True|2022-05-13T07:58:08.2776412+04:30;True|2022-05-12T18:39:25.4311998+04:30;True|2022-05-12T16:05:29.7422835+04:30;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>
